@@ -1,0 +1,318 @@
+﻿request_id,origin_city,origin_state,origin_liftgate_service,destination_city,destintion_state,destination_liftgate_service,handling_unit,length,width,height,weight
+2023_01_0001,Charlottesville,VA,0,Augusta,GA,0,box,36,36,24,495
+2023_01_0002,Columbia,SC,0,Fredericksburg,VA,0,crate,48,48,72,3528
+2023_01_0003,Charlotte,NC,0,Fayetteville,NC,1,crate,48,48,72,3991
+2023_01_0004,Akron,OH,0,Lynchburg,VA,1,pallet,48,40,58,3483
+2023_01_0005,Youngstown,OH,0,Allentown,PA,0,pallet,48,40,59,4381
+2023_01_0006,Asheville,NC,1,Morgantown,WV,1,pallet,48,40,56,3655
+2023_01_0007,Pittsburgh,PA,0,Harrisburg,PA,0,pallet,48,40,49,3839
+2023_01_0008,Chattanooga,TN,0,Youngstown,OH,0,pallet,48,40,53,3366
+2023_01_0009,Harrisburg,PA,0,Charlottesville,VA,0,crate,48,48,72,4304
+2023_01_0010,Lynchburg,VA,0,Spartanburg,SC,0,crate,48,48,72,3509
+2023_01_0011,Allentown,PA,0,Charlotte,NC,0,crate,48,48,72,3622
+2023_01_0012,Allentown,PA,1,Augusta,GA,1,box,36,36,24,419
+2023_01_0013,Columbia,SC,0,Morgantown,WV,0,pallet,48,40,57,3481
+2023_01_0014,Trenton,NJ,0,Trenton,NJ,0,pallet,48,40,68,3228
+2023_01_0015,Birmingham,AL,0,Pittsburgh,PA,0,pallet,48,40,40,3733
+2023_01_0016,Charlottesville,VA,0,Elkton,MD,0,pallet,48,40,47,3383
+2023_01_0017,Newport News,VA,1,Akron,OH,1,pallet,48,40,59,4250
+2023_01_0018,Philadelphia,PA,0,Morgantown,WV,0,pallet,48,40,55,4411
+2023_01_0019,Pittsburgh,PA,0,Charlotte,NC,0,crate,48,48,72,3998
+2023_01_0020,South Hill,VA,0,Chattanooga,TN,0,box,36,36,24,395
+2023_01_0021,White Plains,NY,0,Elkton,MD,0,pallet,48,40,60,3593
+2023_01_0022,White Plains,NY,0,Catskill,NY,0,pallet,48,40,72,3253
+2023_01_0023,Morgantown,WV,1,Cleveland,OH,1,pallet,48,40,46,3612
+2023_01_0024,Harrisburg,PA,1,Fredericksburg,VA,1,pallet,48,40,40,4437
+2023_01_0025,Fredericksburg,VA,0,Catskill,NY,0,pallet,48,40,42,3514
+2023_01_0026,Spartanburg,SC,0,White Plains,NY,0,pallet,48,40,64,3605
+2023_01_0027,Fayetteville,NC,0,White Plains,NY,0,pallet,48,40,66,3889
+2023_01_0028,Allentown,PA,0,Richmond,VA,1,crate,48,48,72,3447
+2023_01_0029,Harrisburg,PA,0,Spartanburg,SC,0,crate,48,48,72,4157
+2023_01_0030,Morgantown,WV,0,Spartanburg,SC,1,crate,48,48,72,3211
+2023_01_0031,Newport News,VA,0,Charlotte,NC,0,crate,48,48,72,3225
+2023_01_0032,Pittsburgh,PA,0,Greensboro,NC,0,crate,48,48,72,3365
+2023_01_0033,Pittsburgh,PA,1,Trenton,NJ,1,pallet,48,40,37,3628
+2023_01_0034,Akron,OH,0,Pittsburgh,PA,0,pallet,48,40,67,3674
+2023_01_0035,Pittsburgh,PA,0,Akron,OH,0,pallet,48,40,49,3799
+2023_01_0036,Pittsburgh,PA,0,Greensboro,NC,1,crate,48,48,72,3909
+2023_01_0037,Trenton,NJ,0,Pittsburgh,PA,0,pallet,48,40,61,4444
+2023_01_0038,Fredericksburg,VA,0,Fayetteville,NC,0,crate,48,48,72,4261
+2023_01_0039,Lynchburg,VA,0,Newport News,VA,0,pallet,48,40,40,4240
+2023_01_0040,Morgantown,WV,1,Augusta,GA,1,box,36,36,24,435
+2023_01_0041,Greensboro,NC,0,Catskill,NY,1,pallet,48,40,70,4436
+2023_01_0042,Elkton,MD,0,Cartersville,GA,0,box,36,36,24,370
+2023_01_0043,Greensboro,NC,0,Charlotte,NC,0,crate,48,48,72,3201
+2023_01_0044,Youngstown,OH,0,Elkton,MD,0,pallet,48,40,50,4367
+2023_01_0045,White Plains,NY,0,Allentown,PA,0,pallet,48,40,65,4255
+2023_01_0046,White Plains,NY,0,Spartanburg,SC,0,crate,48,48,72,3635
+2023_01_0047,Athens,GA,0,White Plains,NY,0,pallet,48,40,36,4006
+2023_01_0048,Richmond,VA,0,Newport News,VA,0,crate,48,48,72,3760
+2023_01_0049,Catskill,NY,0,Youngstown,OH,0,pallet,48,40,48,4218
+2023_01_0050,Augusta,GA,0,Fredericksburg,VA,0,crate,48,48,72,3214
+2023_01_0051,Richmond,VA,1,Columbia,SC,1,crate,48,48,72,4463
+2023_01_0052,Richmond,VA,0,Atlanta,GA,0,box,36,36,24,371
+2023_01_0053,Morgantown,WV,0,Youngstown,OH,0,pallet,48,40,55,3774
+2023_01_0054,Allentown,PA,0,Pittsburgh,PA,0,pallet,48,40,40,3624
+2023_01_0055,Richmond,VA,0,Columbia,SC,0,crate,48,48,72,3663
+2023_01_0056,Newport News,VA,0,Greensboro,NC,0,crate,48,48,72,3505
+2023_01_0057,Akron,OH,1,Charlottesville,VA,1,crate,48,48,72,3335
+2023_01_0058,Birmingham,AL,0,Allentown,PA,0,pallet,48,40,61,4183
+2023_01_0059,Columbia,SC,0,Columbia,SC,1,crate,48,48,72,4489
+2023_01_0060,Philadelphia,PA,0,Spartanburg,SC,0,crate,48,48,72,3638
+2023_01_0061,Akron,OH,0,Harrisburg,PA,0,pallet,48,40,66,3221
+2023_01_0062,South Hill,VA,0,Newark,NJ,1,pallet,48,40,36,4477
+2023_01_0063,Allentown,PA,0,Fredericksburg,VA,0,pallet,48,40,55,3784
+2023_01_0064,Columbia,SC,0,Harrisburg,PA,0,pallet,48,40,42,4493
+2023_01_0065,Athens,GA,0,Morgantown,WV,0,pallet,48,40,53,4416
+2023_01_0066,Akron,OH,1,Greensboro,NC,1,crate,48,48,72,4278
+2023_01_0067,Charlottesville,VA,0,Morgantown,WV,1,pallet,48,40,44,3432
+2023_01_0068,Greenville,SC,0,Harrisonburg,VA,0,crate,48,48,72,4420
+2023_01_0069,Morgantown,WV,0,Lynchburg,VA,0,crate,48,48,72,3619
+2023_01_0070,Allentown,PA,0,Akron,OH,0,pallet,48,40,58,3352
+2023_01_0071,Elkton,MD,0,Allentown,PA,0,pallet,48,40,60,4348
+2023_01_0072,Charlotte,NC,1,Richmond,VA,1,pallet,48,40,42,4017
+2023_01_0073,Philadelphia,PA,0,Catskill,NY,0,pallet,48,40,54,4102
+2023_01_0074,Morgantown,WV,0,Morgantown,WV,0,pallet,48,40,66,3824
+2023_01_0075,Lynchburg,VA,0,Catskill,NY,0,pallet,48,40,61,3630
+2023_01_0076,Atlanta,GA,0,Allentown,PA,1,pallet,48,40,39,3970
+2023_01_0077,Roanoke,VA,0,Harrisburg,PA,0,pallet,48,40,37,4173
+2023_01_0078,Trenton,NJ,0,Elkton,MD,0,pallet,48,40,40,4083
+2023_01_0079,Harrisburg,PA,0,Allentown,PA,0,pallet,48,40,45,4436
+2023_01_0080,Fayetteville,NC,0,Allentown,PA,0,pallet,48,40,40,4208
+2023_01_0081,Augusta,GA,1,Fayetteville,NC,1,crate,48,48,72,4279
+2023_01_0082,White Plains,NY,0,Fredericksburg,VA,1,crate,48,48,72,4038
+2023_01_0083,Charlottesville,VA,0,Newport News,VA,0,crate,48,48,72,3783
+2023_01_0084,Greensboro,NC,0,Catskill,NY,0,pallet,48,40,55,4046
+2023_01_0085,Athens,GA,1,Elkton,MD,1,pallet,48,40,56,4178
+2023_01_0086,Augusta,GA,0,Newark,NJ,0,pallet,48,40,49,3492
+2023_01_0087,Allentown,PA,0,Greensboro,NC,1,crate,48,48,72,3745
+2023_01_0088,Youngstown,OH,0,Newark,NJ,1,pallet,48,40,39,4344
+2023_01_0089,Akron,OH,0,Fayetteville,NC,0,crate,48,48,72,3227
+2023_01_0090,Akron,OH,0,Newark,NJ,0,pallet,48,40,45,3557
+2023_01_0091,Allentown,PA,0,Morgantown,WV,0,pallet,48,40,57,3232
+2023_01_0092,Elkton,MD,0,Greensboro,NC,0,crate,48,48,72,4131
+2023_01_0093,Birmingham,AL,0,Newark,NJ,0,pallet,48,40,58,4203
+2023_01_0094,Newport News,VA,1,Fredericksburg,VA,1,crate,48,48,72,4207
+2023_01_0095,Philadelphia,PA,0,Columbia,SC,1,crate,48,48,72,3841
+2023_01_0096,Youngstown,OH,0,Philadelphia,PA,0,pallet,48,40,39,4026
+2023_01_0097,Youngstown,OH,0,Youngstown,OH,0,pallet,48,40,61,4028
+2023_01_0098,Youngstown,OH,1,Pittsburgh,PA,1,pallet,48,40,41,3264
+2023_01_0099,Spartanburg,SC,0,Harrisburg,PA,0,pallet,48,40,36,3715
+2023_01_0100,Augusta,GA,1,Catskill,NY,1,pallet,48,40,55,3608
+2023_01_0101,Youngstown,OH,0,Allentown,PA,0,pallet,48,40,72,3421
+2023_01_0102,Newport News,VA,0,Pittsburgh,PA,0,pallet,48,40,55,4265
+2023_01_0103,Richmond,VA,0,Richmond,VA,0,pallet,48,40,63,3340
+2023_01_0104,Doylestown,NJ,0,Chattanooga,TN,1,box,36,36,24,396
+2023_01_0105,Fayetteville,NC,0,Trenton,NJ,0,pallet,48,40,62,4478
+2023_01_0106,Newport News,VA,0,Columbia,SC,0,crate,48,48,72,3518
+2023_01_0107,Trenton,NJ,0,Greensboro,NC,1,crate,48,48,72,4076
+2023_01_0108,Athens,GA,0,Catskill,NY,0,pallet,48,40,48,3591
+2023_01_0109,Allentown,PA,0,Spartanburg,SC,1,crate,48,48,72,4046
+2023_01_0110,Lynchburg,VA,0,Chattanooga,TN,0,box,36,36,24,426
+2023_01_0111,Allentown,PA,0,Birmingham,AL,0,box,36,36,24,337
+2023_01_0112,Pittsburgh,PA,0,Catskill,NY,0,pallet,48,40,44,3296
+2023_01_0113,Richmond,VA,0,Morgantown,WV,0,pallet,48,40,50,4326
+2023_01_0114,Elkton,MD,0,Youngstown,OH,0,pallet,48,40,72,3995
+2023_01_0115,Akron,OH,0,Pittsburgh,PA,0,pallet,48,40,49,3820
+2023_01_0116,Charlotte,NC,0,Allentown,PA,1,pallet,48,40,46,3880
+2023_01_0117,Newark,NJ,0,Newark,NJ,1,pallet,48,40,54,3908
+2023_01_0118,Philadelphia,PA,0,Atlanta,GA,0,box,36,36,24,306
+2023_01_0119,Richmond,VA,0,Fredericksburg,VA,0,crate,48,48,72,3469
+2023_01_0120,Columbia,SC,0,Richmond,VA,0,pallet,48,40,55,3648
+2023_01_0121,Trenton,NJ,0,Trenton,NJ,1,pallet,48,40,42,3562
+2023_01_0122,Youngstown,OH,0,Youngstown,OH,0,pallet,48,40,48,3221
+2023_01_0123,Allentown,PA,1,Athens,GA,1,box,36,36,24,273
+2023_01_0124,Allentown,PA,1,Columbia,SC,1,crate,48,48,72,3862
+2023_01_0125,Spartanburg,SC,0,Fredericksburg,VA,0,pallet,48,40,64,4317
+2023_01_0126,Allentown,PA,0,Catskill,NY,0,pallet,48,40,38,3442
+2023_01_0127,Harrisburg,PA,0,Harrisburg,PA,0,pallet,48,40,37,4221
+2023_01_0128,Morgantown,WV,0,Youngstown,OH,0,pallet,48,40,51,4213
+2023_01_0129,Morgantown,WV,0,Philadelphia,PA,0,pallet,48,40,46,3712
+2023_01_0130,Harrisonburg,VA,0,Columbia,SC,0,crate,48,48,72,4256
+2023_01_0131,Youngstown,OH,0,Greensboro,NC,0,crate,48,48,72,4344
+2023_01_0132,Akron,OH,0,Augusta,GA,0,box,36,36,24,447
+2023_01_0133,Pittsburgh,PA,0,Catskill,NY,0,pallet,48,40,66,3447
+2023_01_0134,White Plains,NY,0,Youngstown,OH,0,pallet,48,40,72,4500
+2023_01_0135,South Hill,VA,1,Trenton,NJ,1,pallet,48,40,38,4097
+2023_01_0136,Columbia,SC,0,Akron,OH,0,pallet,48,40,46,3903
+2023_01_0137,Lynchburg,VA,0,Philadelphia,PA,0,pallet,48,40,48,3460
+2023_01_0138,Newark,NJ,0,Fredericksburg,VA,0,pallet,48,40,60,3840
+2023_01_0139,South Hill,VA,0,Richmond,VA,0,pallet,48,40,46,4497
+2023_01_0140,Akron,OH,0,Newport News,VA,0,pallet,48,40,40,3933
+2023_01_0141,Fayetteville,NC,0,Elkton,MD,0,pallet,48,40,58,4397
+2023_01_0142,Youngstown,OH,1,Harrisburg,PA,1,pallet,48,40,64,4314
+2023_01_0143,Athens,GA,1,Elkton,MD,1,pallet,48,40,71,3744
+2023_01_0144,White Plains,NY,0,Allentown,PA,0,pallet,48,40,63,3200
+2023_01_0145,Newark,NJ,0,Charlottesville,VA,0,crate,48,48,72,4307
+2023_01_0146,Chattanooga,TN,0,Harrisburg,PA,1,pallet,48,40,61,3829
+2023_01_0147,Harrisburg,PA,0,Harrisburg,PA,0,pallet,48,40,67,4254
+2023_01_0148,Akron,OH,0,Charlotte,NC,1,crate,48,48,72,3844
+2023_01_0149,Richmond,VA,0,White Plains,NY,0,pallet,48,40,52,4322
+2023_01_0150,Fayetteville,NC,0,Lynchburg,VA,0,crate,48,48,72,4199
+2023_01_0151,Augusta,GA,0,Birmingham,AL,0,box,36,36,24,476
+2023_01_0152,Columbia,SC,0,Charlottesville,VA,1,crate,48,48,72,4189
+2023_01_0153,Pittsburgh,PA,0,Spartanburg,SC,0,crate,48,48,72,3686
+2023_01_0154,Atlanta,GA,0,Knoxville,TN,0,box,36,36,24,331
+2023_01_0155,Fayetteville,NC,0,Lynchburg,VA,0,pallet,48,40,63,4064
+2023_01_0156,South Hill,VA,0,Charlotte,NC,0,crate,48,48,72,3280
+2023_01_0157,Richmond,VA,0,Lynchburg,VA,0,pallet,48,40,67,4131
+2023_01_0158,Spartanburg,SC,0,Catskill,NY,0,pallet,48,40,63,3775
+2023_01_0159,Atlanta,GA,0,White Plains,NY,1,pallet,48,40,53,3945
+2023_01_0160,Augusta,GA,0,Youngstown,OH,1,pallet,48,40,61,3488
+2023_01_0161,Lynchburg,VA,1,Pittsburgh,PA,1,pallet,48,40,65,4358
+2023_01_0162,Elkton,MD,0,Charlottesville,VA,1,crate,48,48,72,4282
+2023_01_0163,Catskill,NY,0,Atlanta,GA,0,box,36,36,24,266
+2023_01_0164,South Hill,VA,0,Charlottesville,VA,1,crate,48,48,72,3255
+2023_01_0165,Richmond,VA,0,Greensboro,NC,0,crate,48,48,72,4438
+2023_01_0166,Morgantown,WV,0,Morgantown,WV,0,pallet,48,40,51,4473
+2023_01_0167,Columbia,SC,0,Newark,NJ,0,pallet,48,40,69,4225
+2023_01_0168,Pittsburgh,PA,0,South Hill,VA,0,pallet,48,40,65,3206
+2023_01_0169,South Hill,VA,0,catskill,NY,0,pallet,48,40,38,4128
+2023_01_0170,Youngstown,OH,0,Richmond,VA,0,crate,48,48,72,4204
+2023_01_0171,Morgantown,WV,0,Spartanburg,SC,0,crate,48,48,72,3866
+2023_01_0172,Akron,OH,1,Fayetteville,NC,1,crate,48,48,72,4095
+2023_01_0173,Newport News,VA,0,Spartanburg,SC,0,crate,48,48,72,4073
+2023_01_0174,Spartanburg,SC,1,Charlottesville,VA,1,crate,48,48,72,3884
+2023_01_0175,Pittsburgh,PA,0,Newark,NJ,0,pallet,48,40,60,3911
+2023_01_0176,Trenton,NJ,0,Youngstown,OH,0,pallet,48,40,36,4020
+2023_01_0177,South Hill,VA,0,Lynchburg,VA,0,pallet,48,40,39,3967
+2023_01_0178,Morgantown,WV,1,Allentown,PA,1,pallet,48,40,36,4262
+2023_01_0179,Youngstown,OH,0,Chattanooga,TN,0,box,36,36,24,416
+2023_01_0180,Augusta,GA,0,Spartanburg,SC,0,crate,48,48,72,4157
+2023_01_0181,Fredericksburg,VA,0,Spartanburg,SC,0,crate,48,48,72,3560
+2023_01_0182,Birmingham,AL,0,Harrisburg,PA,0,pallet,48,40,67,3427
+2023_01_0183,Youngstown,OH,1,Newark,NJ,1,pallet,48,40,39,3974
+2023_01_0184,Allentown,PA,0,Columbia,SC,1,crate,48,48,72,3772
+2023_01_0185,Birmingham,AL,0,Richmond,VA,1,pallet,48,40,53,3722
+2023_01_0186,Greensboro,NC,0,Greensboro,NC,0,crate,48,48,72,3764
+2023_01_0187,Newark,NJ,0,Greensboro,NC,1,crate,48,48,72,3341
+2023_01_0188,Youngstown,OH,0,Allentown,PA,0,pallet,48,40,64,3791
+2023_01_0189,Youngstown,OH,0,Morgantown,WV,0,pallet,48,40,41,3204
+2023_01_0190,Elkton,MD,0,Allentown,PA,0,pallet,48,40,45,4152
+2023_01_0191,Pittsburgh,PA,0,Charlottesville,VA,1,pallet,48,40,55,3200
+2023_01_0192,Fayetteville,NC,0,Trenton,NJ,0,pallet,48,40,69,4482
+2023_01_0193,Pittsburgh,PA,1,Catskill,NY,1,pallet,48,40,62,4255
+2023_01_0194,Pittsburgh,PA,0,Birmingham,AL,0,box,36,36,24,470
+2023_01_0195,Charlotte,NC,0,Pittsburgh,PA,0,pallet,48,40,46,4384
+2023_01_0196,Birmingham,AL,0,Youngstown,OH,0,pallet,48,40,53,3459
+2023_01_0197,Youngstown,OH,0,Catskill,NY,0,pallet,48,40,61,4177
+2023_01_0198,Greensboro,NC,0,Newport News,VA,0,crate,48,48,72,4233
+2023_01_0199,Richmond,VA,0,Fayetteville,NC,0,crate,48,48,72,3913
+2023_01_0200,Greensboro,NC,0,Newark,NJ,0,pallet,48,40,48,3403
+2023_01_0201,Greensboro,NC,0,Newark,NJ,0,pallet,48,40,63,3875
+2023_01_0202,Charlottesville,VA,0,South Hill,VA,0,crate,48,48,72,4145
+2023_01_0203,Newport News,VA,1,Akron,OH,1,pallet,48,40,65,4428
+2023_01_0204,Fayetteville,NC,0,Spartanburg,SC,0,crate,48,48,72,4036
+2023_01_0205,Charlottesville,VA,0,Allentown,PA,0,pallet,48,40,62,3667
+2023_01_0206,Elkton,MD,0,Akron,OH,1,pallet,48,40,58,3417
+2023_01_0207,Harrisburg,PA,0,Fayetteville,NC,0,crate,48,48,72,3981
+2023_01_0208,Charlotte,NC,0,Pittsburgh,PA,0,pallet,48,40,43,3577
+2023_01_0209,Allentown,PA,0,Morgantown,WV,1,pallet,48,40,60,3713
+2023_01_0210,Newark,NJ,0,Newport News,VA,0,crate,48,48,72,4098
+2023_01_0211,Augusta,GA,0,Pittsburgh,PA,1,pallet,48,40,59,3599
+2023_01_0212,Richmond,VA,0,Catskill,NY,1,pallet,48,40,41,3229
+2023_01_0213,Spartanburg,SC,0,Allentown,PA,0,pallet,48,40,53,4110
+2023_01_0214,White Plains,NY,0,Trenton,NJ,0,pallet,48,40,49,3319
+2023_01_0215,Allentown,PA,0,Fredericksburg,VA,0,pallet,48,40,42,3893
+2023_01_0216,Charlottesville,VA,0,Greensboro,NC,1,crate,48,48,72,4128
+2023_01_0217,Elkton,MD,0,Lynchburg,VA,0,pallet,48,40,36,3837
+2023_01_0218,Catskill,NY,0,Youngstown,OH,0,pallet,48,40,58,3702
+2023_01_0219,Harrisburg,PA,0,Fredericksburg,VA,0,pallet,48,40,41,3608
+2023_01_0220,South Hill,VA,0,Lynchburg,VA,1,pallet,48,40,37,3494
+2023_01_0221,Philadelphia,PA,0,Fayetteville,NC,0,crate,48,48,72,3324
+2023_01_0222,Fredericksburg,VA,0,Lynchburg,VA,0,pallet,48,40,46,4267
+2023_01_0223,Trenton,NJ,0,White Plains,NY,0,pallet,48,40,54,3877
+2023_01_0224,Birmingham,AL,0,Philadelphia,PA,0,pallet,48,40,47,3917
+2023_01_0225,Allentown,PA,0,Fredericksburg,VA,1,pallet,48,40,36,3603
+2023_01_0226,Columbia,SC,1,Richmond,VA,1,crate,48,48,72,3739
+2023_01_0227,Easton,NJ,0,Atlanta,GA,0,box,36,36,24,318
+2023_01_0228,Youngstown,OH,0,Akron,OH,0,pallet,48,40,51,4442
+2023_01_0229,Newport News,VA,0,Spartanburg,SC,1,crate,48,48,72,4414
+2023_01_0230,Asheville,NC,1,Elwood City,PA,1,pallet,48,40,43,4430
+2023_01_0231,Philadelphia,PA,0,Newport News,VA,0,crate,48,48,72,3656
+2023_01_0232,Charlottesville,VA,0,Newport News,VA,0,pallet,48,40,39,4290
+2023_01_0233,Birmingham,AL,0,Columbia,SC,1,crate,48,48,72,3647
+2023_01_0234,Newport News,VA,0,Augusta,GA,0,box,36,36,24,496
+2023_01_0235,Newport News,VA,0,Atlanta,GA,0,box,36,36,24,378
+2023_01_0236,Atlanta,GA,0,Akron,OH,0,pallet,48,40,54,3494
+2023_01_0237,Greensboro,NC,0,Chattanooga,TN,0,box,36,36,24,286
+2023_01_0238,Atlanta,GA,0,Catskill,NY,0,pallet,48,40,67,3460
+2023_01_0239,Youngstown,OH,0,Newport News,VA,1,pallet,48,40,39,3551
+2023_01_0240,Augusta,GA,1,Allentown,PA,1,pallet,48,40,48,3292
+2023_01_0241,Charlotte,NC,0,White Plains,NY,1,pallet,48,40,44,3927
+2023_01_0242,Youngstown,OH,0,Morgantown,WV,0,pallet,48,40,68,3547
+2023_01_0243,Spartanburg,SC,0,Greensboro,NC,1,crate,48,48,72,3604
+2023_01_0244,Morgantown,WV,0,Akron,OH,0,pallet,48,40,37,4305
+2023_01_0245,Lynchburg,VA,0,Catskill,NY,0,pallet,48,40,71,4012
+2023_01_0246,Fayetteville,NC,0,Youngstown,OH,0,pallet,48,40,54,3897
+2023_01_0247,Akron,OH,1,Greensboro,NC,1,crate,48,48,72,3217
+2023_01_0248,Charlotte,NC,0,Richmond,VA,0,pallet,48,40,68,3337
+2023_01_0249,Augusta,GA,0,Newport News,VA,0,crate,48,48,72,3350
+2023_01_0250,Newark,NJ,0,Canton,OH,0,pallet,48,40,41,4229
+2023_01_0251,Greensboro,NC,0,Fredericksburg,VA,0,crate,48,48,72,4268
+2023_01_0252,Pittsburgh,PA,0,Newark,NJ,0,pallet,48,40,38,3472
+2023_01_0253,Allentown,PA,0,White Plains,NY,0,pallet,48,40,36,3640
+2023_01_0254,Richmond,VA,1,Atlanta,GA,1,box,36,36,24,269
+2023_01_0255,Augusta,GA,0,Columbia,SC,0,crate,48,48,72,3537
+2023_01_0256,Youngstown,OH,1,White Plains,NY,1,pallet,48,40,45,3967
+2023_01_0257,Spartanburg,SC,0,Birmingham,AL,0,box,36,36,24,390
+2023_01_0258,Pittsburgh,PA,0,White Plains,NY,1,pallet,48,40,67,3645
+2023_01_0259,Fayetteville,NC,0,Pittsburgh,PA,1,pallet,48,40,46,3498
+2023_01_0260,Akron,OH,0,Trenton,NJ,0,pallet,48,40,39,3268
+2023_01_0261,Pittsburgh,PA,0,Spartanburg,SC,1,crate,48,48,72,3468
+2023_01_0262,Lynchburg,VA,0,Pittsburgh,PA,0,pallet,48,40,66,3363
+2023_01_0263,Youngstown,OH,1,Fredericksburg,VA,1,pallet,48,40,52,4460
+2023_01_0264,Greensboro,NC,0,Philadelphia,PA,0,pallet,48,40,46,3260
+2023_01_0265,Columbia,SC,1,Newport News,VA,1,pallet,48,40,50,4290
+2023_01_0266,Morgantown,WV,0,Greensboro,NC,0,crate,48,48,72,4113
+2023_01_0267,Athens,GA,0,South Hill,VA,0,crate,48,48,72,4212
+2023_01_0268,White Plains,NY,0,Fayetteville,NC,0,crate,48,48,72,3684
+2023_01_0269,Pittsburgh,PA,0,Allentown,PA,0,pallet,48,40,63,4454
+2023_01_0270,White Plains,NY,0,Spartanburg,SC,0,crate,48,48,72,3411
+2023_01_0271,Columbia,SC,0,Morgantown,WV,0,pallet,48,40,50,3496
+2023_01_0272,Morgantown,WV,0,Chattanooga,TN,0,box,36,36,24,470
+2023_01_0273,Spartanburg,SC,0,South Hill,VA,0,crate,48,48,72,3663
+2023_01_0274,Spartanburg,SC,0,Morgantown,WV,0,pallet,48,40,64,3626
+2023_01_0275,Allentown,PA,0,Philadelphia,PA,0,pallet,48,40,56,3829
+2023_01_0276,Lynchburg,VA,0,Catskill,NY,1,pallet,48,40,65,4268
+2023_01_0277,Columbia,SC,0,Atlanta,GA,0,box,36,36,24,457
+2023_01_0278,Morgantown,WV,0,Spartanburg,SC,0,crate,48,48,72,4199
+2023_01_0279,Harrisburg,PA,0,Trenton,NJ,0,pallet,48,40,36,4404
+2023_01_0280,Newark,NJ,0,Newport News,VA,0,crate,48,48,72,4467
+2023_01_0281,South Hill,VA,0,Youngstown,OH,0,pallet,48,40,44,3304
+2023_01_0282,Youngstown,OH,0,Atlanta,GA,0,box,36,36,24,261
+2023_01_0283,Chattanooga,TN,0,Newport News,VA,0,pallet,48,40,63,4313
+2023_01_0284,Morgantown,WV,1,Greensboro,NC,1,crate,48,48,72,3441
+2023_01_0285,Charlotte,NC,0,Newark,NJ,0,pallet,48,40,62,3352
+2023_01_0286,Columbia,SC,0,Spartanburg,SC,0,crate,48,48,72,3707
+2023_01_0287,Pittsburgh,PA,0,Pittsburgh,PA,0,pallet,48,40,54,3998
+2023_01_0288,Greensboro,NC,0,Pittsburgh,PA,0,pallet,48,40,59,3597
+2023_01_0289,Fredericksburg,VA,0,Fayetteville,NC,0,crate,48,48,72,4386
+2023_01_0290,Greensboro,NC,0,Newark,NJ,1,pallet,48,40,45,4320
+2023_01_0291,White Plains,NY,0,White Plains,NY,0,pallet,48,40,49,4260
+2023_01_0292,Pittsburgh,PA,0,Richmond,VA,0,pallet,48,40,51,4308
+2023_01_0293,Elkton,MD,1,Youngstown,OH,1,pallet,48,40,60,4158
+2023_01_0294,Youngstown,OH,0,Allentown,PA,0,pallet,48,40,54,3636
+2023_01_0295,Youngstown,OH,0,Spartanburg,SC,0,crate,48,48,72,4254
+2023_01_0296,Charlottesville,VA,0,Lynchburg,VA,0,pallet,48,40,60,3827
+2023_01_0297,Youngstown,OH,1,Youngstown,OH,1,pallet,48,40,68,3394
+2023_01_0298,Spartanburg,SC,0,Greensboro,NC,0,crate,48,48,72,4216
+2023_01_0299,Harrisburg,PA,0,Charlottesville,VA,1,pallet,48,40,50,4439
+2023_01_0300,White Plains,NY,0,Morgantown,WV,0,pallet,48,40,61,4488
+2023_01_0301,Charlottesville,VA,1,Fredericksburg,VA,1,crate,48,48,72,3728
+2023_01_0302,Harrisburg,PA,0,Chattanooga,TN,0,box,36,36,24,427
+2023_01_0303,Newark,NJ,0,Chattanooga,TN,0,box,36,36,24,493
+2023_01_0304,Harrisburg,PA,0,Spartanburg,SC,1,crate,48,48,72,3980
+2023_01_0305,Pittsburgh,PA,0,Newport News,VA,0,crate,48,48,72,3852
+2023_01_0306,Harrisburg,PA,0,Columbia,SC,0,crate,48,48,72,3575
+2023_01_0307,Pittsburgh,PA,0,Youngstown,OH,0,pallet,48,40,41,4137
+2023_01_0308,Fayetteville,NC,0,Newark,NJ,0,pallet,48,40,51,3636
+2023_01_0309,Greensboro,NC,0,Harrisburg,PA,0,pallet,48,40,36,3806
+2023_01_0310,Charlotte,NC,1,Catskill,NY,1,pallet,48,40,51,3268
+2023_01_0311,Harrisburg,PA,0,Pittsburgh,PA,0,pallet,48,40,55,3801
+2023_01_0312,Atlanta,GA,0,Atlanta,GA,0,box,36,36,24,495
+2023_01_0313,Greensboro,NC,0,Allentown,PA,0,pallet,48,40,49,4426
+2023_01_0314,Newark,NJ,0,Richmond,VA,0,crate,48,48,72,3729
+2023_01_0315,Trenton,NJ,0,Newport News,VA,0,crate,48,48,72,4190
+2023_01_0316,Morgantown,WV,0,Fredericksburg,VA,0,pallet,48,40,40,3259
+2023_01_0317,Catskill,NY,0,Augusta,GA,0,box,36,36,24,382
